@@ -1,3 +1,3 @@
 # myaltschool
 ## my first alt-school assignment
-### i enjoy coding
+### i enjoy html and css
